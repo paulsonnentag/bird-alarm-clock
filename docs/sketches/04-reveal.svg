@@ -7,27 +7,27 @@
 <text x="38" y="38" font-size="15" font-weight="600" fill="#2A2A2A">6:42</text>
 <rect x="1" y="60" width="388" height="330" fill="#E8E2D6"/>
 <use href="#bird" x="85" y="130" width="220" height="150" color="#C9C1B1"/>
-<text x="195" y="330" font-size="13" text-anchor="middle" fill="#8A8577">photo (Wikimedia Commons)</text>
+<text x="195" y="330" font-size="13" text-anchor="middle" fill="#8A8577">Foto (iNaturalist / Commons)</text>
 <text x="370" y="380" font-size="10" text-anchor="end" fill="#8A8577">© J. Smith · CC BY-SA 4.0</text>
 <rect x="20" y="360" width="350" height="56" rx="28" fill="#3E7C4F"/>
-<text x="195" y="395" font-size="18" text-anchor="middle" fill="#fff" font-weight="700">✓ Correct! It's a Robin</text>
-<text x="24" y="460" font-size="30" font-weight="700" fill="#2A2A2A">European Robin</text>
-<text x="24" y="486" font-size="15" font-style="italic" fill="#8A8577">Erithacus rubecula · Rotkehlchen</text>
+<text x="195" y="395" font-size="18" text-anchor="middle" fill="#fff" font-weight="700">✓ Richtig! Ein Rotkehlchen</text>
+<text x="24" y="460" font-size="30" font-weight="700" fill="#2A2A2A">Rotkehlchen</text>
+<text x="24" y="486" font-size="15" font-style="italic" fill="#8A8577">Erithacus rubecula · European Robin</text>
 <g transform="translate(24,506)" font-size="13" fill="#5C5A52">
  <rect width="342" height="1" fill="#E4DDCF"/>
- <text y="28">🎵  Sings in winter too – often before dawn,</text>
- <text y="48">     even under street lights.</text>
- <text y="76">📍  Gardens, parks, hedges. All year.</text>
- <text y="104">📏  14 cm · orange breast, round body</text>
+ <text y="28">🎵  Singt auch im Winter – oft vor Sonnenaufgang,</text>
+ <text y="48">     sogar unter Straßenlaternen.</text>
+ <text y="76">📍  Gärten, Parks, Hecken. Ganzjährig.</text>
+ <text y="104">📏  14 cm · orange Brust, rundlich</text>
 </g>
 <rect x="20" y="628" width="350" height="54" rx="18" fill="#fff" stroke="#E4DDCF"/>
 <circle cx="50" cy="655" r="14" fill="#EAF2E6"/><path d="M45 648 L57 655 L45 662 Z" fill="#3E7C4F"/>
-<text x="76" y="660" font-size="14" fill="#2A2A2A">Hear it again</text>
+<text x="76" y="660" font-size="14" fill="#2A2A2A">Nochmal anhören</text>
 <text x="350" y="660" font-size="11" text-anchor="end" fill="#8A8577">xeno-canto XC123456</text>
 <g transform="translate(20,698)">
  <rect width="350" height="44" rx="14" fill="#EAF2E6"/>
- <text x="16" y="28" font-size="13" fill="#3E7C4F">Next review in <tspan font-weight="700">6 days</tspan> · 3rd time right 🌱→🌿</text>
+ <text x="16" y="28" font-size="13" fill="#3E7C4F">Wieder dran in <tspan font-weight="700">6 Tagen</tspan> · 3× richtig 🌱→🌿</text>
 </g>
 <rect x="20" y="756" width="350" height="54" rx="27" fill="#2A2A2A"/>
-<text x="195" y="789" font-size="16" text-anchor="middle" fill="#fff" font-weight="600">Start the day</text>
+<text x="195" y="789" font-size="16" text-anchor="middle" fill="#fff" font-weight="600">In den Tag starten</text>
 <rect x="128" y="824" width="134" height="5" rx="2.5" fill="#2A2A2A"/></svg>

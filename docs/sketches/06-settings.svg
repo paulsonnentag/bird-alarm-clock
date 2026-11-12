@@ -7,29 +7,29 @@
 <text x="38" y="38" font-size="15" font-weight="600" fill="#2A2A2A">6:42</text>
 <line x1="1" y1="748" x2="389" y2="748" stroke="#E4DDCF"/>
 <g font-size="11" text-anchor="middle" fill="#8A8577">
- <g transform="translate(78,760)"><circle cx="0" cy="12" r="11" fill="none" stroke="currentColor" stroke-width="2"/><path d="M0 5 V12 L5 15" stroke="currentColor" stroke-width="2" fill="none"/><text y="40">Alarm</text></g>
- <g transform="translate(195,760)"><use href="#bird" x="-13" y="2" width="26" height="20"/><text y="40">My Birds</text></g>
- <g transform="translate(312,760)"><circle cx="0" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="0" cy="12" r="11" fill="none" stroke="currentColor" stroke-width="2" stroke-dasharray="4 3"/><text y="40">Settings</text></g>
+ <g transform="translate(78,760)"><circle cx="0" cy="12" r="11" fill="none" stroke="currentColor" stroke-width="2"/><path d="M0 5 V12 L5 15" stroke="currentColor" stroke-width="2" fill="none"/><text y="40">Wecker</text></g>
+ <g transform="translate(195,760)"><use href="#bird" x="-13" y="2" width="26" height="20"/><text y="40">Meine Vögel</text></g>
+ <g transform="translate(312,760)"><circle cx="0" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="0" cy="12" r="11" fill="none" stroke="currentColor" stroke-width="2" stroke-dasharray="4 3"/><text y="40">Einstellungen</text></g>
 </g>
-<g transform="translate(312,760)"><circle cx="0" cy="12" r="5" fill="none" stroke="#3E7C4F" stroke-width="2"/><circle cx="0" cy="12" r="11" fill="none" stroke="#3E7C4F" stroke-width="2" stroke-dasharray="4 3"/><text y="40" font-size="11" text-anchor="middle" fill="#3E7C4F">Settings</text></g>
-<text x="24" y="104" font-size="30" font-weight="700" fill="#2A2A2A">Settings</text>
-<text x="40" y="146" font-size="12" fill="#8A8577" letter-spacing="1">BIRDS</text>
+<g transform="translate(312,760)"><circle cx="0" cy="12" r="5" fill="none" stroke="#3E7C4F" stroke-width="2"/><circle cx="0" cy="12" r="11" fill="none" stroke="#3E7C4F" stroke-width="2" stroke-dasharray="4 3"/><text y="40" font-size="11" text-anchor="middle" fill="#3E7C4F">Einstellungen</text></g>
+<text x="24" y="104" font-size="30" font-weight="700" fill="#2A2A2A">Einstellungen</text>
+<text x="40" y="146" font-size="12" fill="#8A8577" letter-spacing="1">VÖGEL</text>
 <rect x="20" y="156" width="350" height="196" rx="20" fill="#fff" stroke="#E4DDCF"/>
 <line x1="38" y1="205" x2="370" y2="205" stroke="#F1EDE5"/><line x1="38" y1="254" x2="370" y2="254" stroke="#F1EDE5"/><line x1="38" y1="303" x2="370" y2="303" stroke="#F1EDE5"/>
- <g transform="translate(20,157)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Bird set</text><text x="314" y="30" font-size="15" text-anchor="end" fill="#8A8577">Common European</text><text x="332" y="30" font-size="15" fill="#C9C1B1">›</text></g>
- <g transform="translate(20,206)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Choose birds</text><text x="314" y="30" font-size="15" text-anchor="end" fill="#8A8577">40 of 40</text><text x="332" y="30" font-size="15" fill="#C9C1B1">›</text></g>
- <g transform="translate(20,255)"><text x="18" y="30" font-size="15" fill="#2A2A2A">New birds</text><text x="314" y="30" font-size="15" text-anchor="end" fill="#8A8577">1 every 2 days</text><text x="332" y="30" font-size="15" fill="#C9C1B1">›</text></g>
- <g transform="translate(20,304)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Bird names</text><text x="314" y="30" font-size="15" text-anchor="end" fill="#8A8577">Deutsch</text><text x="332" y="30" font-size="15" fill="#C9C1B1">›</text></g>
-<text x="40" y="386" font-size="12" fill="#8A8577" letter-spacing="1">WAKING UP</text>
+ <g transform="translate(20,157)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Vogel-Set</text><text x="314" y="30" font-size="15" text-anchor="end" fill="#8A8577">Häufige Arten</text><text x="332" y="30" font-size="15" fill="#C9C1B1">›</text></g>
+ <g transform="translate(20,206)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Vögel auswählen</text><text x="314" y="30" font-size="15" text-anchor="end" fill="#8A8577">40 von 40</text><text x="332" y="30" font-size="15" fill="#C9C1B1">›</text></g>
+ <g transform="translate(20,255)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Neue Vögel</text><text x="314" y="30" font-size="15" text-anchor="end" fill="#8A8577">alle 2 Tage einer</text><text x="332" y="30" font-size="15" fill="#C9C1B1">›</text></g>
+ <g transform="translate(20,304)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Vogelnamen</text><text x="314" y="30" font-size="15" text-anchor="end" fill="#8A8577">Deutsch</text><text x="332" y="30" font-size="15" fill="#C9C1B1">›</text></g>
+<text x="40" y="386" font-size="12" fill="#8A8577" letter-spacing="1">AUFWACHEN</text>
 <rect x="20" y="396" width="350" height="196" rx="20" fill="#fff" stroke="#E4DDCF"/>
 <line x1="38" y1="445" x2="370" y2="445" stroke="#F1EDE5"/><line x1="38" y1="494" x2="370" y2="494" stroke="#F1EDE5"/><line x1="38" y1="543" x2="370" y2="543" stroke="#F1EDE5"/>
- <g transform="translate(20,397)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Answer style</text><text x="314" y="30" font-size="15" text-anchor="end" fill="#8A8577">4 photos</text><text x="332" y="30" font-size="15" fill="#C9C1B1">›</text></g>
- <g transform="translate(20,446)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Call type</text><text x="314" y="30" font-size="15" text-anchor="end" fill="#8A8577">Songs first</text><text x="332" y="30" font-size="15" fill="#C9C1B1">›</text></g>
- <g transform="translate(20,495)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Snooze</text><rect x="292" y="10" width="46" height="28" rx="14" fill="#3E7C4F"/><circle cx="326" cy="24" r="12" fill="#fff"/></g>
- <g transform="translate(20,544)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Fade in volume</text><rect x="292" y="10" width="46" height="28" rx="14" fill="#3E7C4F"/><circle cx="326" cy="24" r="12" fill="#fff"/></g>
-<text x="40" y="626" font-size="12" fill="#8A8577" letter-spacing="1">ABOUT</text>
+ <g transform="translate(20,397)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Antwortart</text><text x="314" y="30" font-size="15" text-anchor="end" fill="#8A8577">4 Fotos</text><text x="332" y="30" font-size="15" fill="#C9C1B1">›</text></g>
+ <g transform="translate(20,446)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Rufart</text><text x="314" y="30" font-size="15" text-anchor="end" fill="#8A8577">Erst Gesang</text><text x="332" y="30" font-size="15" fill="#C9C1B1">›</text></g>
+ <g transform="translate(20,495)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Schlummern</text><rect x="292" y="10" width="46" height="28" rx="14" fill="#3E7C4F"/><circle cx="326" cy="24" r="12" fill="#fff"/></g>
+ <g transform="translate(20,544)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Lauter werdend</text><rect x="292" y="10" width="46" height="28" rx="14" fill="#3E7C4F"/><circle cx="326" cy="24" r="12" fill="#fff"/></g>
+<text x="40" y="626" font-size="12" fill="#8A8577" letter-spacing="1">INFO</text>
 <rect x="20" y="636" width="350" height="98" rx="20" fill="#fff" stroke="#E4DDCF"/>
 <line x1="38" y1="685" x2="370" y2="685" stroke="#F1EDE5"/>
- <g transform="translate(20,637)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Sound &amp; photo credits</text><text x="314" y="30" font-size="15" text-anchor="end" fill="#8A8577"></text><text x="332" y="30" font-size="15" fill="#C9C1B1">›</text></g>
- <g transform="translate(20,686)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Reset progress</text><text x="314" y="30" font-size="15" text-anchor="end" fill="#8A8577"></text><text x="332" y="30" font-size="15" fill="#C9C1B1">›</text></g>
+ <g transform="translate(20,637)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Ton- &amp; Bildnachweise</text><text x="314" y="30" font-size="15" text-anchor="end" fill="#8A8577"></text><text x="332" y="30" font-size="15" fill="#C9C1B1">›</text></g>
+ <g transform="translate(20,686)"><text x="18" y="30" font-size="15" fill="#2A2A2A">Fortschritt zurücksetzen</text><text x="314" y="30" font-size="15" text-anchor="end" fill="#8A8577"></text><text x="332" y="30" font-size="15" fill="#C9C1B1">›</text></g>
 <rect x="128" y="824" width="134" height="5" rx="2.5" fill="#2A2A2A"/></svg>
